@@ -1,2 +1,6 @@
 # jonatan
-Important bash script
+bash script
+
+# Dependecies
+------------
+xcowsay
