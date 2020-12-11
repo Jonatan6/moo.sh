@@ -5,7 +5,7 @@ bash script
 xcowsay
 
 # How to use it
-First you want to install xcowsat as it is a important part of this script.
+First you want to install xcowsay, as it is a important part of this script.
 
 On Debian based systems:
 ```
