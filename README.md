@@ -14,7 +14,7 @@ sudo apt install xcowsay
 
 On Arch based systems:
 ```
-sudo pacman -S xcowsay
+yay xcowsay
 ```
 
 Then you want to clone the repository and start the script
