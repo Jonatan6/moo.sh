@@ -1,11 +1,7 @@
-# jonatan
-bash script
-
-# Dependecies
-xcowsay
-
+# Jonatan
+Bash Script
 # How to use it
-First you want to install xcowsay, as it is a important part of this script.
+First you want to install xcowsay, as it is an important part of this script.
 
 On Debian based systems:
 ```
