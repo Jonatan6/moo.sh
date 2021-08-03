@@ -1,5 +1,5 @@
 # moo.sh
-moo.sh is a revelutionary shell script that aims to emulate the sounds of a cow to very high degrees of precision.
+moo.sh is a revolutionary shell script that aims to emulate the sound of a cow to very high degrees of precision.
 ## Before you run
 If you don't already have it, you need to install `xcowsay`.
 
