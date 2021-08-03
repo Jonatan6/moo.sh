@@ -14,10 +14,10 @@ yay xcowsay
 ```
 *Note: use whatever AUR helper you have, I just used `yay` as an example*
 
-Then you want to clone the repository and start the script!
+Then you have to clone the repository and start the script!
 ```
 git clone https://github.com/Jonatan6/moo.sh
 sh moo.sh/moo.sh
 ```
 ## License
-moo.sh is licensed under the "DON'T STEAL MY CODE!" license, for more information, read the LICENSE document
+moo.sh is licensed under the `DON'T STEAL MY CODE!` license, for more information read the LICENSE document.
